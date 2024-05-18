@@ -1,12 +1,6 @@
-# Anonymous
 # <b>Anonymous</b> 
 <h2>Http Unbearable Load King 👑</h2><br>
-
-#
 ## <b>DDOS Attack Script :</b>
-
-
-#
 ## <b>Git Installation :</b>
 `sudo apt update && sudo apt upgrade -y`<br>
 `sudo apt install python -y`<br>

@@ -4,7 +4,7 @@
 ## <b>Git Installation :</b>
 `sudo apt update && sudo apt upgrade -y`<br>
 `sudo apt install python -y`<br>
-`sudo apt install git -y`<br>
+`sudo apt install git -y`<br> 
 `python -m pip install -r requirements.txt`<br>
 `python anonymous.py`<br>
 #

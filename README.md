@@ -15,7 +15,7 @@
 
 ![Alt text](assets/ddos-protocol-attack.png)<br>
 ![Alt text](assets/ddos-volumetric-attack.png)<br>
-![Alt text](assets/ddos-app-layer-attack)<br>
+
 
 
 

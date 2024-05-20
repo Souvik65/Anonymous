@@ -34,9 +34,6 @@ print('''
     * /_/   \_\|_| \_| \___/ |_| \_|  |_|  |_|  |_| \___/  \___/ |____/  *
     *                                                                    *
     *                                                                    *
-    *                   HTTP Unbearable Load King                        *
-    *                                                                    *
-    *                                                                    *
     **********************************************************************
             ************************************************
             *                                              *    
@@ -59,10 +56,6 @@ print('''
     *  / ___ \ | |\  || |_| || |\  |  | |  | |  | || |_| || |_| | ___) | *
     * /_/   \_\|_| \_| \___/ |_| \_|  |_|  |_|  |_| \___/  \___/ |____/  *
     *                                                                    *
-    *                                                                    *
-    *                   HTTP Unbearable Load King                        *
-    *                                                                    *
-    *                                                                    *
     **********************************************************************
 
 	''')
@@ -75,9 +68,12 @@ except ValidationError as exception :
 
 #Lets start our attack
 print(" ")
-print("    That's my secret Cap, I am always angry ")
+print('''       We are Anonymous 
+ 	     Every thing is Possible
+   		 if you Beleves
+     ''')
 print(" " )
-print(" [+] Anonymous is attacking server " + ip )
+print(" [+] Anonymous is ATTACKING server " + ip )
 print (" " )
 time.sleep(5)
 sent = 0
@@ -93,6 +89,7 @@ except KeyboardInterrupt:
 	print("\n [-] Ctrl+C Detected.........Exiting")
 	print(" [-] DDOS ATTACK STOPPED")
 input(" Enter To Exit")
+os.exit()
 os.system("clear")
 print(" [-] Kivuos is tired...")
 
